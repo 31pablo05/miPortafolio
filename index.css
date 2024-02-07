@@ -115,3 +115,15 @@ nav a img {
     vertical-align: middle; /* Alinea verticalmente los iconos en el centro con respecto al texto */
     margin-right: 5px; /* Ajusta el margen derecho para separar los iconos del texto */
 }
+/* Estilos para el tema claro */
+.light {
+    background-color: #fff;
+    color: #333;
+  }
+  
+  /* Estilos para el tema oscuro */
+  .dark {
+    background-color: #333;
+    color: #fff;
+  }
+  
